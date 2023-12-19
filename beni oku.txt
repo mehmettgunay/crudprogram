@@ -1,0 +1,7 @@
+veritabanı yedeği repo içindedir ("Employees.bak")
+
+visual studio içinden appsettings.json dosyasından kendi veritabanı bilgilerinizi giriniz
+
+Mehmet Günay
+20215070060
+Yönetim Bilişim Sistemleri
